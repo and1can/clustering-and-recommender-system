@@ -19,11 +19,12 @@ How to run programs:
  1. python kmeans.py 
         to run kmeans for 1
 
- For the following two go into data/joke_data/ to run recommender system to predict    jokes!
- 2.2 python avg.py 
+ For the following two go into data/joke_data/ to run recommender system to predict jokes!
+   
+  2.2 python avg.py 
         to run simple recommender system and advanced system
 
- 2.3 python latent.py 
+  2.3 python latent.py 
         to run latent factor model with mean square loss function and loss function that takes into account sparse data
 
 
